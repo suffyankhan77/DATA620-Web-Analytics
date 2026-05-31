@@ -174,6 +174,3 @@ Any non-trivial external code, datasets, examples, or references used in this re
 M.S. in Data Science
 CUNY School of Professional Studies
 
-
-
-Then the repo will look professional and ready for Week 1.
