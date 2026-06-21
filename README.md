@@ -127,7 +127,7 @@ Each notebook is expected to include:
 | ------------- | ----------------------- | -------------------------------------------------- | ----------------------------------- |
 | Week 1        | Hello Graph World       | `assignments/week1_hello_graph_world/`             | Completed                           |
 | Week 2 Part 1 | Graph Visualization     | `assignments/week2_part1_graph_visualization/`     | Completed                           |
-| Week 2 Part 2 | Centrality Measures     | `assignments/week2_part2_centrality_measure/`      | Document completed                  |
+| Week 2 Part 2 | Centrality Measures     | `assignments/week2_part2_centrality_measure/`      | Completed                           |
 | Week 3 Part 2 | Data Sets               | `assignments/week3_part2_data_sets/`               | Completed                           |
 | Week 4 Part 2 | High Frequency Words    | `assignments/week4_part2_high_frequency_words/`    | Incomplete                          |
 | Week 5 Part 2 | Document Classification | `assignments/week5_part2_document_classification/` | Incomplete                          |
