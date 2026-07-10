@@ -15,7 +15,7 @@ This repository is organized to support reproducible assignments, group projects
 * **Course:** DATA 620 Web Analytics
 * **Credits:** 3 graduate credits
 * **Program:** M.S. in Data Science, CUNY School of Professional Studies
-* **Instructor:** Alain Ledon
+* **Instructor:** Professor Alain Ledon
 * **Primary Tools:** Python, Jupyter Notebook, NetworkX, NLTK, pandas, NumPy, matplotlib, scikit-learn
 
 ---
@@ -38,14 +38,14 @@ DATA620-Web-Analytics/
 ├── assignments/
 │   ├── week1_hello_graph_world/
 │   ├── week2_part1_graph_visualization/
-│   ├── week2_part2_centrality_measure/
+│   ├── week2_part2_centrality_measures/
 │   ├── week3_part2_data_sets/
 │   ├── week4_part2_high_frequency_words/
 │   └── week5_part2_document_classification/
 │
 ├── environment/
-│   ├── sps620env.yml
-│   └── DATA620_Environment_Check.ipynb
+│   ├── DATA620_Environment_Check.ipynb
+│   └── sps620env.yml
 │
 ├── projects/
 │   ├── project_01/
@@ -103,18 +103,18 @@ environment/DATA620_Environment_Check.ipynb
 
 ## Submission Format
 
-Course assignments and projects are submitted as **Jupyter Notebooks** through GitHub links.
+Course assignments and projects are submitted as **Jupyter Notebooks** or other required formats through GitHub links.
 
-Each notebook is expected to include:
+Each submission is expected to include:
 
 * Assignment or project title
 * Team member names
 * Objective and problem description
 * Step-by-step explanation of the work
-* Python code and outputs
-* Network or text visualizations
+* Python code and outputs, when applicable
+* Network or text visualizations, when applicable
 * Interpretation of results
-* Video presentation link, when required
+* Video presentation link or video file, when required
 * References and attribution for external code or datasets
 
 ---
@@ -123,23 +123,24 @@ Each notebook is expected to include:
 
 ### Assignments
 
-| Assignment    | Topic                   | Folder                                             | Status                              |
-| ------------- | ----------------------- | -------------------------------------------------- | ----------------------------------- |
-| Week 1        | Hello Graph World       | `assignments/week1_hello_graph_world/`             | Completed                           |
-| Week 2 Part 1 | Graph Visualization     | `assignments/week2_part1_graph_visualization/`     | Completed                           |
-| Week 2 Part 2 | Centrality Measures     | `assignments/week2_part2_centrality_measure/`      | Completed                           |
-| Week 3 Part 2 | Data Sets               | `assignments/week3_part2_data_sets/`               | Completed                           |
-| Week 4 Part 2 | High Frequency Words    | `assignments/week4_part2_high_frequency_words/`    | Incomplete                          |
-| Week 5 Part 2 | Document Classification | `assignments/week5_part2_document_classification/` | Incomplete                          |
+| Assignment    | Topic                   | Folder                                             | Status     |
+| ------------- | ----------------------- | -------------------------------------------------- | ---------- |
+| Week 1        | Hello Graph World       | `assignments/week1_hello_graph_world/`             | Completed  |
+| Week 2 Part 1 | Graph Visualization     | `assignments/week2_part1_graph_visualization/`     | Completed  |
+| Week 2 Part 2 | Centrality Measures     | `assignments/week2_part2_centrality_measures/`     | Completed  |
+| Week 3 Part 2 | Data Sets               | `assignments/week3_part2_data_sets/`               | Completed  |
+| Week 4 Part 2 | High Frequency Words    | `assignments/week4_part2_high_frequency_words/`    | Completed  |
+| Week 5 Part 2 | Document Classification | `assignments/week5_part2_document_classification/` | Incomplete |
 
 ### Projects
 
-| Project       | Topic                            | Folder                    | Status     |
-| ------------- | -------------------------------- | ------------------------- | ---------- |
-| Project 1     | Network Analysis Project         | `projects/project_01/`    | Completed  |
-| Project 2     | To be determined                 | `projects/project_02/`    | Incomplete |
-| Project 3     | To be determined                 | `projects/project_03/`    | Incomplete |
-| Final Project | Network Analysis and Text Mining | `projects/final_project/` | Incomplete |
+| Project                | Topic                                                           | Folder                    | Status                |
+| ---------------------- | --------------------------------------------------------------- | ------------------------- | --------------------  |
+| Project 1              | Centrality Measures in the Spotify Artist Collaboration Network | `projects/project_01/`    | Completed             |
+| Project 2              | Two-Mode Network Analysis Using the MovieLens 100K Dataset      | `projects/project_02/`    | Completed             |
+| Project 3              | Name Gender Classifier                                          | `projects/project_03/`    | Completed             |
+| Final Project          | NBA Trade Network and Public Sentiment Analysis                 | `projects/final_project/` | Partially Completed   |
+
 
 ---
 
@@ -182,12 +183,12 @@ Files include:
 
 ### Week 2 Part 2: Centrality Measures
 
-This assignment focuses on centrality measures and how they can be used to analyze important nodes in a network. The written document is complete, and the video presentation is still pending.
+This assignment focuses on centrality measures and how they can be used to analyze important nodes in a network. The final submission includes the written document, PDF copy, and video presentation.
 
 Folder:
 
 ```text
-assignments/week2_part2_centrality_measure/
+assignments/week2_part2_centrality_measures/
 ```
 
 Files include:
@@ -215,9 +216,27 @@ Files include:
 
 ---
 
-### Project 1
+### Week 4 Part 2: High Frequency Words
 
-Project 1 applies network analysis concepts using node and edge data. The project folder includes the main Jupyter Notebook, supporting CSV files, and video presentation.
+This assignment analyzes high-frequency words in text data and includes visual outputs for word frequency and Zipf-style comparison.
+
+Folder:
+
+```text
+assignments/week4_part2_high_frequency_words/
+```
+
+Files include:
+
+* `High_Frequency_Words.ipynb`
+* `top200_frequency.png`
+* `zipf_comparison.png`
+
+---
+
+### Project 1: Centrality Measures in the Spotify Artist Collaboration Network
+
+Project 1 applies network analysis concepts to the Spotify Artist Feature Collaboration Network. The project analyzes centrality measures across categorical groups and includes node and edge data.
 
 Folder:
 
@@ -235,14 +254,62 @@ Files include:
 
 ---
 
+### Project 2: Two-Mode Network Analysis Using the MovieLens 100K Dataset
+
+Project 2 focuses on two-mode network analysis using the MovieLens 100K dataset. The project analyzes relationships between users and movies and includes the dataset, notebook, and video presentation.
+
+Folder:
+
+```text
+projects/project_02/
+```
+
+Files include:
+
+* `DATA620_Project2.ipynb`
+* `Project2_Video.mp4`
+* `data/ml-100k/`
+
+---
+
+### Project 3: Name Gender Classifier
+
+Project 3 builds and evaluates a name gender classifier using natural language processing and classification techniques.
+
+Folder:
+
+```text
+projects/project_03/
+```
+
+Files include:
+
+* `DATA620_Project3_NameGenderClassifier.ipynb`
+* `Project3_Video.mp4`
+
+---
+
+### Final Project Proposal: NBA Trade Network and Public Sentiment Analysis
+
+The final project proposal outlines a project focused on NBA trade networks and public sentiment analysis. The proposal connects network analysis with text mining and sentiment analysis.
+
+Folder:
+
+```text
+projects/final_project/
+```
+
+Files include:
+
+* `Data_620_Final_Project_Proposal.ipynb`
+
+---
+
 ## Pending Work
 
 The following items are still incomplete and will be updated as the course progresses:
 
-* Week 4 Part 2 High Frequency Words
 * Week 5 Part 2 Document Classification
-* Project 2
-* Project 3
 * Final Project
 
 ---
