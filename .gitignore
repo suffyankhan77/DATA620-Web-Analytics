@@ -219,3 +219,5 @@ __marimo__/
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 anaconda_projects/
+# Large raw CFPB dataset
+assignments/week5_part2_document_classification/data/raw/
