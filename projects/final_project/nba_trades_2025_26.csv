@@ -74,37 +74,37 @@ T23,2026-02-05,2025-26 season,Xavier Tillman Sr.,BOS,CHA,2.5,player,no (estimate
 T24,2026-02-05,2025-26 season,Josh Minott,BOS,BKN,2.5,player,no (estimate — verify vs Spotrac),https://www.nba.com/news/2025-26-nba-trade-tracker
 T25,2026-02-05,2025-26 season,Hunter Tyson,DEN,BKN,2.4,player,no (estimate — verify vs Spotrac),https://www.nba.com/news/2025-26-nba-trade-tracker
 T26,2026-02-05,2025-26 season,Eric Gordon,PHI,MEM,3.5,player,no (estimate — verify vs Spotrac),https://www.nba.com/news/2025-26-nba-trade-tracker
-T28,2026-06-29,2026 offseason,Ja Morant,MEM,POR,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T28,2026-06-29,2026 offseason,Jerami Grant,POR,MEM,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T28,2026-06-29,2026 offseason,Kris Murray,POR,MEM,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T29,2026-06-30,2026 offseason,Devin Carter,SAC,ATL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T30,2026-07-06,2026 offseason,Aaron Wiggins,OKC,ATL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T31,2026-07-06,2026 offseason,Jaime Jaquez Jr.,MIA,MIL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T31,2026-07-06,2026 offseason,Kasparas Jakucionis,MIA,MIL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T31,2026-07-06,2026 offseason,Kel'el Ware,MIA,MIL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T31,2026-07-06,2026 offseason,Tyler Herro,MIA,MIL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T31,2026-07-06,2026 offseason,Bobby Portis,MIL,MIA,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T31,2026-07-06,2026 offseason,Giannis Antetokounmpo,MIL,MIA,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T32,2026-07-06,2026 offseason,Jaylen Brown,BOS,PHI,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T32,2026-07-06,2026 offseason,Paul George,PHI,BOS,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T33,2026-07-06,2026 offseason,Isaiah Joe,OKC,DET,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T34,2026-07-06,2026 offseason,Dorian Finney-Smith,HOU,CHA,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
+T28,2026-06-29,2026 offseason,Ja Morant,MEM,POR,42.2,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T28,2026-06-29,2026 offseason,Jerami Grant,POR,MEM,34.0,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T28,2026-06-29,2026 offseason,Kris Murray,POR,MEM,5.3,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T29,2026-06-30,2026 offseason,Devin Carter,SAC,ATL,5.2,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T30,2026-07-06,2026 offseason,Aaron Wiggins,OKC,ATL,9.0,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T31,2026-07-06,2026 offseason,Jaime Jaquez Jr.,MIA,MIL,5.9,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T31,2026-07-06,2026 offseason,Kasparas Jakucionis,MIA,MIL,4.4,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T31,2026-07-06,2026 offseason,Kel'el Ware,MIA,MIL,4.9,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T31,2026-07-06,2026 offseason,Tyler Herro,MIA,MIL,33.0,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T31,2026-07-06,2026 offseason,Bobby Portis,MIL,MIA,14.7,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T31,2026-07-06,2026 offseason,Giannis Antetokounmpo,MIL,MIA,58.5,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T32,2026-07-06,2026 offseason,Jaylen Brown,BOS,PHI,57.1,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T32,2026-07-06,2026 offseason,Paul George,PHI,BOS,54.1,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T33,2026-07-06,2026 offseason,Isaiah Joe,OKC,DET,12.0,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T34,2026-07-06,2026 offseason,Dorian Finney-Smith,HOU,CHA,13.3,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
 T27,2026-07-07,2026 offseason,Deandre Ayton,LAL,WAS,8.1,player,no (estimate — verify vs Spotrac),https://www.nba.com/news/2026-offseason-trade-tracker
 T27,2026-07-07,2026 offseason,Jaden Hardy,WAS,LAL,5.5,player,no (estimate — verify vs Spotrac),https://www.nba.com/news/2026-offseason-trade-tracker
-T35,2026-07-08,2026 offseason,Walker Kessler,UTA,LAL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,AJ Johnson,DAL,MEM,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Khris Middleton,DAL,WAS,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Marcus Sasser,DET,DAL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Isaiah Stewart,DET,MEM,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Caris LeVert,DET,MIL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,John Collins,LAC,DET,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Santi Aldama,MEM,DAL,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Gary Harris,MIL,DET,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,Taurean Prince,MIL,DET,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T36,2026-07-08,2026 offseason,D'Angelo Russell,WAS,MEM,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T37,2026-07-10,2026 offseason,Nic Claxton,BKN,CHI,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T37,2026-07-10,2026 offseason,Josh Green,CHA,MIN,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T37,2026-07-10,2026 offseason,LaMelo Ball,CHA,MIN,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T37,2026-07-10,2026 offseason,Mo Gueye,CHI,CHA,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T37,2026-07-10,2026 offseason,Julius Randle,MIN,BKN,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
-T37,2026-07-10,2026 offseason,Naz Reid,MIN,CHA,,player,pending — verify in Step 2,https://www.nba.com/news/2026-offseason-trade-tracker
+T35,2026-07-08,2026 offseason,Walker Kessler,UTA,LAL,32.5,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,AJ Johnson,DAL,MEM,3.2,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Khris Middleton,DAL,WAS,5.9,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Marcus Sasser,DET,DAL,5.3,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Isaiah Stewart,DET,MEM,15.0,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Caris LeVert,DET,MIL,14.8,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,John Collins,LAC,DET,17.0,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Santi Aldama,MEM,DAL,17.5,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Gary Harris,MIL,DET,3.8,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,Taurean Prince,MIL,DET,3.6,player,public contract average estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T36,2026-07-08,2026 offseason,D'Angelo Russell,WAS,MEM,6.0,player,public contract report — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T37,2026-07-10,2026 offseason,Nic Claxton,BKN,CHI,23.3,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T37,2026-07-10,2026 offseason,Josh Green,CHA,MIN,14.7,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T37,2026-07-10,2026 offseason,LaMelo Ball,CHA,MIN,40.7,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T37,2026-07-10,2026 offseason,Mo Gueye,CHI,CHA,2.3,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T37,2026-07-10,2026 offseason,Julius Randle,MIN,BKN,33.3,player,public contract schedule estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
+T37,2026-07-10,2026 offseason,Naz Reid,MIN,CHA,25.0,player,public contract or rookie-scale estimate — rounded to $0.1M,https://www.nba.com/news/2026-offseason-trade-tracker
