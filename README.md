@@ -130,16 +130,16 @@ Each submission is expected to include:
 | Week 2 Part 2 | Centrality Measures     | `assignments/week2_part2_centrality_measures/`     | Completed  |
 | Week 3 Part 2 | Data Sets               | `assignments/week3_part2_data_sets/`               | Completed  |
 | Week 4 Part 2 | High Frequency Words    | `assignments/week4_part2_high_frequency_words/`    | Completed  |
-| Week 5 Part 2 | Document Classification | `assignments/week5_part2_document_classification/` | Incomplete |
+| Week 5 Part 2 | Document Classification | `assignments/week5_part2_document_classification/` | Completed  |
 
 ### Projects
 
-| Project                | Topic                                                           | Folder                    | Status                |
-| ---------------------- | --------------------------------------------------------------- | ------------------------- | --------------------  |
-| Project 1              | Centrality Measures in the Spotify Artist Collaboration Network | `projects/project_01/`    | Completed             |
-| Project 2              | Two-Mode Network Analysis Using the MovieLens 100K Dataset      | `projects/project_02/`    | Completed             |
-| Project 3              | Name Gender Classifier                                          | `projects/project_03/`    | Completed             |
-| Final Project          | NBA Trade Network and Public Sentiment Analysis                 | `projects/final_project/` | Partially Completed   |
+| Project                | Topic                                                           | Folder                    | Status     |
+| ---------------------- | --------------------------------------------------------------- | ------------------------- | ---------- |
+| Project 1              | Centrality Measures in the Spotify Artist Collaboration Network | `projects/project_01/`    | Completed  |
+| Project 2              | Two-Mode Network Analysis Using the MovieLens 100K Dataset      | `projects/project_02/`    | Completed  |
+| Project 3              | Name Gender Classifier                                          | `projects/project_03/`    | Completed  |
+| Final Project          | NBA Trade Network and Public Sentiment Analysis                 | `projects/final_project/` | Completed  |
 
 
 ---
